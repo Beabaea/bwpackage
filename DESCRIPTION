@@ -5,9 +5,11 @@ Authors@R:
     c(person("Beatrice", "Weier", , "first.last@example.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID")), 
       person("Dane", "Dormedy", , "first.last@example.com", role = "aut",
+           comment = c(ORCID = "YOUR-ORCID-ID")),
+      person("Luke", "Connolly", , "first.last@example.com", role = "aut",
            comment = c(ORCID = "YOUR-ORCID-ID"))
       )
-Description: What the package does (one paragraph).
+Description: This package contains functions that allow addition of numbers as values and as strings.There is also a function that measures the area of a polygon.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Imports:
